@@ -15,13 +15,13 @@ Studied hardware options such as accelerometers and microcontrollers.
 Designed basic system architecture for seizure detection wearable.
 
 2:30 – 4:00
-Explored different alert mechanisms (audio alerts, phone alerts).
+Started hardware prototyping by connecting the ESP32 with the MPU-6000 motion sensor. 
 
 4:00 – 5:30
-Identified detection features such as repetitive shaking patterns.
+To read accelerometer and gyroscope data and displayed the raw values through the serial monitor.
 
 5:30 – 7:00
-Compared existing seizure detection devices and their sensors.
+Tested the prototype with different movement patterns to observe how motion data changes.
 
 7:00 – 8:30
-Started initial hardware prototyping and component planning.
+Prepared the device for data collection with Edge Impulse to begin building a dataset for seizure-motion detection.
