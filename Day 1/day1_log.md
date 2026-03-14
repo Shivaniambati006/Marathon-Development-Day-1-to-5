@@ -1,6 +1,5 @@
-Day 1 – Prototype Marathon
-Start Time: 8:30 AM
-End Time: 8:30 PM
+# Day 1 – Prototype Marathon
+## Start Time: 8:30 AM  ||    End Time: 8:30 PM
 
 8:30 – 10:00
 Understanding the medical side of tonic-clonic seizures.
