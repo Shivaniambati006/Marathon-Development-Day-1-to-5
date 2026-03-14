@@ -31,23 +31,6 @@ During the **clonic phase**:
 
 ## Movement Frequency
 
-The shaking movements during the clonic phase typically occur at a frequency of:
-
-**1–5 movements per second**
+The shaking movements during the clonic phase typically occur at a frequency of: **1–5 movements per second**
 
 These repeated motion patterns are useful for **seizure detection algorithms** because they differ from normal daily movements.
-
----
-
-## Detection Using Wearable Sensors
-
-Wearable devices can detect seizure-related movements using sensors such as:
-
-- **Accelerometers** – measure changes in acceleration and body movement.
-- **Gyroscopes** – measure rotational motion and orientation.
-
-By analyzing these signals, wearable systems can:
-
-- Identify **abnormal motion patterns**
-- Detect possible **tonic-clonic seizures**
-- **Trigger alerts** to caregivers or medical systems.
